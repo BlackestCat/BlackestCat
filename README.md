@@ -1,10 +1,4 @@
-Hello :) 
-
-Im BlackestCat
-
-Developer from Serbia 🇷🇸
-
-Currently interested in learning and upgrading the *programming* experience in ROBLOX STUDIO 🐈‍⬛
+Coja
 
 <!---
 BlackestCat/BlackestCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
